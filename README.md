@@ -18,6 +18,9 @@ The dashboard includes the following visualizations and charts:
 - **Map: Quantity by State:** Get a geographic distribution of sales quantities by state.
 - **B2B Sales Analysis:** Analyze business-to-business (B2B) sales data
 
+## Data source
+- The dataset used in the dashboard is sourced from :
+   https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 ## Tableau Public Dashboard
 
 Explore the live dashboard on Tableau Public:
